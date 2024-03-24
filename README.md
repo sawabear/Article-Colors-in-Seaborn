@@ -1,6 +1,3 @@
-# Article-Colors-in-Seaborn
-
-
 ## RU
 Я написал эту статью для компании, в которой сейчас работаю — Lamoda Tech.
 **Текст статьи опубликова на https://habr.com/.**
