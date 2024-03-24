@@ -1,6 +1,7 @@
 # Article-Colors-in-Seaborn
 
 
+## RU
 Я написал эту статью для компании, в которой я сейчас работа - Ламода Тех.
 **Текст статьи was published on https://habr.com/.**
 
@@ -8,6 +9,7 @@
 Я покажу не только картинки было-стало, но и приведу примеры кода, а также объясню логику принятия решений: как использовать ту или иную палитру в конкретной задаче. И что самое главное, дам пошаговые советы, как сделать график логичнее и понятнее для заказчиков.
 
 
+## ENG
 I wrote this article for the company I currently work for - Lamoda Tech.
 **The text (in Russian) was published on https://habr.com/.**
 
